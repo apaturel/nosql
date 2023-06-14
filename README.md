@@ -60,15 +60,7 @@ brew install git
 
 ## Création db Google BigQuery
 
-1. Aller sur https://firebase.google.com
-
-2. Cliquer sur Get strated puis sur Ajouter un projet
-
-3. Ensuite donner lui le nom que vous souhaitez et cliquer sur continer puis creer le projet
-
-4. Une fois le projet créé, cliquer dans la nav-bar de gauche sur "Créer" puis "Cloud Firestore"
-
-5. Créer un base de données, démmarer la en mode test, cliquer sur suivant et choisiser un emplacement puis "Activer"
+https://cloud.google.com/bigquery?hl=fr
 
 1. Connectez-vous à votre console Google Cloud.
 
